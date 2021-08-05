@@ -1,5 +1,9 @@
 # house-inventory-client
 
+## Features
+1. Login/Register with OAuth with LINE, Google, Facebook (Credentials required)
+1. Web Socket to ensure members in the same house get updated with latest data.
+
 ## Build Setup
 
 ```bash
