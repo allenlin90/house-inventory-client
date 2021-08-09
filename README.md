@@ -1,8 +1,34 @@
 # house-inventory-client
 
-## Features
-1. Login/Register with OAuth with LINE, Google, Facebook (Credentials required)
+## Summary
+1. The app solves the problem of household inventory manage by providing critical information, reminders, and analysis to help modern families to
+    1. Understand assets and inventories at house
+    1. Reduce waste on unnecssary items
+    1. Overpurchase on certain products
+    1. Understand household consumptions
+    1. Prevent waste by product expiration
+    1. Tracking on family expenditure and household expense
+    1. Get latest promotions on discounts from sellers
+    1. Locate goods in a house
+1. On business side sellers can
+    1. Promote to users with marketing campaign
+    1. Analysis on user behavior
+
+## Features and functions
+1. Manage family members in a house
+1. List of groceries in a house
+1. Records of purchases, including price, amount, deals, and location
+1. Reminders to finishing or expiring products
+1. Reminders to deals and discount
+
+## Features on Technology
+1. Login/Register with local or OAuth by LINE or Google. 
 1. Web Socket to ensure members in the same house get updated with latest data.
+1. Scan barcode or QRcode to check or register products.
+1. Map view to check nearest sellers or from where a product was purchased.
+1. IoT technology to locate goods in house with integration with smart devices. (Bluetooth, Wi-Fi, NFC)
+
+## 
 
 ## Build Setup
 
